@@ -35,8 +35,7 @@ coverage.xml
 # VS Code
 .vscode/
 
-# MacOS
-.DS_Store
+Thumbs.db
 
 # Logs
 *.log
