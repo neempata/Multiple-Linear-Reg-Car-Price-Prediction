@@ -68,7 +68,13 @@ Running the Notebook
 
 Open the Jupyter notebook:
 
-jupyter notebook MultipleRegression(3).ipynb
+jupyter notebook MultipleRegression.ipynb
 
 Run the cells in order to follow the complete workflow:
 
+Data loading and exploration
+Data visualization
+Feature preparation
+Model training
+Prediction
+Model evaluation
