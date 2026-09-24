@@ -32,7 +32,7 @@ Evaluation: Compare predicted prices with actual prices using R²
 The final split contains 164 training observations and 41 test observations.
 
 Model
-Multiple Linear Reg
+Multiple Linear Regression
 
 Multiple Linear Regression estimates a target value using several input variables at once.
 
