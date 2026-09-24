@@ -1,4 +1,4 @@
-#Multiple Linear Regression — Car Price Prediction
+### Multiple Linear Regression — Car Price Prediction
 
 A machine learning project that predicts car prices based on multiple vehicle characteristics using Multiple Linear Regression.
 
